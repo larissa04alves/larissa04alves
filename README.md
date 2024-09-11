@@ -1,6 +1,4 @@
-# 👋 Hi! I'm Larissa Alves
-
-# 💫 About Me:
+# 💫 Hi! I'm Larissa Alves
 
 👩‍💻 Studying <strong>Software Engineering</strong> | <a href="https://www.univates.br/">Univates</a><br>📚 Expanding my skills with React, Next.js, and Svelte<br>💼 Freelance Web Developer
 
@@ -14,15 +12,9 @@
 
 # 📊 GitHub Stats:
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=larissa04alves&theme=discord_old_blurple&hide_border=false&include_all_commits=true&count_private=true" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissa04alves&theme=discord_old_blurple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-    </td>
-  </tr>
-</table>
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=larissa04alves&theme=discord_old_blurple&hide_border=true&include_all_commits=true&count_private=true" style="width: 50%%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissa04alves&theme=discord_old_blurple&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=6" style="width: 50%;">
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
