@@ -13,6 +13,5 @@
 # 📊 GitHub Stats:
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=larissa04alves&theme=discord_old_blurple&hide_border=true&include_all_commits=true&count_private=true" style="width: 48%;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissa04alves&theme=discord_old_blurple&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=6" style="width: 38%;">
 </div>
