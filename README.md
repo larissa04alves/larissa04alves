@@ -1,6 +1,6 @@
 # 💫 Hi! I'm Larissa Alves
 
-👩‍💻 Studying <strong>Software Engineering</strong> | <a href="https://www.pucpr.br/">PUCPR</a><br>📚 Expanding my skills with React, Next.js, and Svelte<br>💼 Freelance Web Developer
+👩‍💻 Studying <strong>Software Engineering</strong> | <a href="https://www.pucpr.br/">PUCPR</a><br>📚 Expanding my skills with React, Next.js, and Svelte<br>💼 Freelance FullStack Developer
 
 ## 🌐 Socials:
 
